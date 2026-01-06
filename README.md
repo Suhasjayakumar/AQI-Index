@@ -1,4 +1,5 @@
 Project Overview
+
 This project analyzes Air Quality Index (AQI) data across India over a ten-year period from 2016 to 2025. The goal is to transform large volumes of raw air quality data into meaningful insights through interactive visualizations, enabling better understanding of pollution trends, dominant pollutants, and high-risk regions.
 The dashboard supports year-wise, state-wise, and city-wise analysis and highlights both long-term trends and current-year air qualit conditions.
 
